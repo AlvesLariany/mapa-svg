@@ -1,4 +1,4 @@
-# Mapas com SVG
+# Mapas Estado- Munici´pio
 
 Este projeto é uma aplicação web que permite visualizar os estados e municípios do Brasil e destacar o município selecionado em um mapa SVG do estado correspondente.
 
